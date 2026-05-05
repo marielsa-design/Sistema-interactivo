@@ -1,0 +1,1 @@
+Que es Javascript, ecmascript?, java?, tipados? y cuál es la diferencia entre javascript vs typexript?
