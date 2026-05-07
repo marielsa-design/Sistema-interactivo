@@ -1,1 +1,11 @@
 Que es Javascript, ecmascript?, java?, tipados? y cuál es la diferencia entre javascript vs typexript?
+
+#####
+
+https://ollama.com/search
+Ollama
+Search for models on Ollama.
+
+Phi3-
+
+https://openai.com/es-ES/api/
