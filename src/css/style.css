@@ -1,8 +1,12 @@
-main {
-    background-color: blue;
+* {
+    background-color: rgb(230, 185, 63);
 }
 
-#class {
+p {
     font-family: Arial, sans-serif;
-    background-color: aqua;
-} 
+    background-color: rgb(221, 136, 56);
+    border: solid rgb(248, 119, 119);
+    border-radius: solid 2px;
+    margin: 5px 5px 5px 5px;
+    padding-top: 5px 5px 5px 5px;
+}
