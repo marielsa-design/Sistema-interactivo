@@ -1,0 +1,20 @@
+{
+  "name": "sistema-interactivo",
+  "version": "1.0.0",
+  "description": "Creación de un sistema interactivo de mensajes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marielsa-design/Sistema-interactivo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marielsa-design/Sistema-interactivo/issues"
+  },
+  "homepage": "https://github.com/marielsa-design/Sistema-interactivo#readme"
+}
