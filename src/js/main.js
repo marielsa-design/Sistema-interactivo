@@ -1,3 +1,5 @@
+// Creación de un sistema interactivo de mensajes
+
 // Solicitar el nombre
 
 let userName = prompt("Ingresa tu nombre:");
@@ -20,7 +22,7 @@ if (userAge === "" || userAge === null) {
     console.log("Tu edad: ", userAge);
 }
 
-// Verificar "es menor o mayor de edad"
+// Resultado: Verificar "Si es menor o mayor de edad"
 
 if (userAge < 18) { // Comprueba si es mayor o menor de edad de un usuario de nombre
 
@@ -29,5 +31,6 @@ if (userAge < 18) { // Comprueba si es mayor o menor de edad de un usuario de no
 } else {
 
     console.log("Hola" + userName + ", eres mayor de edad")
-    alert("Hola " + userName + ", eres mayor de edad")
+    alert("Hola ", + userName + ", eres mayor de edad")
 }
+
