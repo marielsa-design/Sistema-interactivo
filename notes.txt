@@ -35,3 +35,6 @@ Que es Javascript, ecmascript?, java?, tipados? y cuál es la diferencia entre j
 //     console.log(fruta);
 // }
 
+Hoisting, promises, function. (Profesor Andres)
+
+vite -> Que es el vite es un servidor de desarrollo
