@@ -35,8 +35,3 @@
 //     alert("Hola ", + userName + ", eres mayor de edad")
 // }
 
-const frutas = ["manzana", "naranja", "cereza", "pera"]
-
-for(let i = 0; i < frutas.length; i++){
-    console.log(frutas[i])
-}
