@@ -1,4 +1,5 @@
-// Creación de un sistema interactivo de mensajes
+// Practica de javascript: Creación de un sistema interactivo de mensajes
+// **********************************************
 
 // Solicitar el nombre
 let userName = prompt("Ingresa tu nombre:");
@@ -23,13 +24,27 @@ if (userName === "" || userName === null) {
         // Verificar si es menor o mayor de edad
         if (userAge < 18) {
 
-            console.log("Hola " + userName + ", eres menor de edad");
-            alert("Hola " + userName + ", eres menor de edad");
+            console.log("Hola " + userName + ", eres menor de edad. ¡Sigue aprendiendo y disfrutando del código!");
+            alert("Hola " + userName + ", eres menor de edad. ¡Sigue aprendiendo y disfrutando del código!");
 
         } else {
 
-            console.log("Hola " + userName + ", eres mayor de edad");
-            alert("Hola " + userName + ", eres mayor de edad");
+            console.log("Hola " + userName + ", eres mayor de edad. ¡Prepárate para grandes oportunidades en el mundo de la programación!");
+            alert("Hola " + userName + ", eres mayor de edad. ¡Prepárate para grandes oportunidades en el mundo de la programación!");
         }
     }
 }
+
+// // Solicitar el nombre y edad (Basico)
+
+// let userName = prompt("Ingresar su nombre");
+// let userEdad = prompt("Ingresar su edad");
+
+// if (userEdad >= 18) { // Verificar si es mayor de edad
+//     console.log("Hola " + userName + ", eres mayor de edad. ¡Prepárate para grandes oportunidades en el mundo de la programación!");
+//     alert("Hola " + userName + ", eres mayor de edad. ¡Prepárate para grandes oportunidades en el mundo de la programación!");
+
+// } else { // Verificar si es menor de edad
+//     console.log("Hola " + userName + ", eres menor de edad. ¡Sigue aprendiendo y disfrutando del código!");
+//     alert("Hola " + userName + ", eres menor de edad. ¡Sigue aprendiendo y disfrutando del código!");
+// }
